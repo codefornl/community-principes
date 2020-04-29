@@ -26,3 +26,5 @@ Als leden van de Code for NL community zorgen we er te allen tijde voor dat proj
 12. we belanghebbenden, vertegenwoordigers, en inhoudelijk experts actief bij ontwerp en besluitvorming betrekken.
 
 CC-BY 2020 Stichting Code for NL
+
+<sup><sub>Gebaseerd op https://github.com/codeforamerica/codeofconduct</sub></sup>
