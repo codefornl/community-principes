@@ -10,7 +10,7 @@ Daarbij hanteren we de volgende principes:
 
 # Code for NL community principes
 
-Als leden van de Code for NL community zorgen we er te allen tijde voor dat projecten, teams, online omgevingen en offline evenementen, plaatsen zijn waar:
+Als leden van de Code for NL community streven we er naar dat projecten, teams, online omgevingen en offline evenementen, plaatsen zijn waar:
 
 1. mensen zich veilig en gerespecteerd voelen;
 2. mensen hun identiteit vrijelijk kunnen uiten;
