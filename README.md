@@ -6,7 +6,7 @@ Code for NL is de Nederlandse community van developers en designers die samenwer
 - we werken open en transparant;
 - we bouwen samen een ecosysteem.
 
-Daarbij hanteren we de volgende principes:
+We zijn een open community: iedereen is welkom. Daarbij hanteren we de volgende principes:
 
 # Code for NL community principes
 
